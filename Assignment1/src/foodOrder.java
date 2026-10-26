@@ -1,5 +1,3 @@
-import jdk.jfr.Category;
-
 public class foodOrder {
     protected String dishName;
     protected double basePrice;
